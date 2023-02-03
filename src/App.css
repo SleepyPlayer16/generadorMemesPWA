@@ -28,6 +28,25 @@
   color: #61dafb;
 }
 
+.meme span {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  margin-top: 450px;
+  font-size: 38px;
+  color:white;
+}
+
+.meme span:nth-child(1) {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  margin-top: 50px;
+  font-size: 38px;
+  color:white;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
